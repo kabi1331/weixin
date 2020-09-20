@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "wyb-tabs": "/components/wyb-tabs/wyb-tabs"
+  }
+}

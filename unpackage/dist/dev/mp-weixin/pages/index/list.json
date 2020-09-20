@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "果园",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card"
+  }
+}

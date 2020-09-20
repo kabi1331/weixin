@@ -1,0 +1,26 @@
+
+.left {
+	position: fixed;
+	top: 0;
+	width: 30%;
+	height: 400px;
+}
+.right{
+	width: 68%;
+	float: right;
+}
+.select {
+	padding: 20px 10px;
+	text-align: center;
+	background-color: #ffffff;
+	border-left: 2px solid #EE0925;
+	font-weight: bold;
+	color: #EE0925;
+}
+.normal {
+	padding: 20px 10px;
+	text-align: center;
+	background-color: #F4F4F4;
+	border-bottom: 1px solid #f2f2f2;
+}
+
